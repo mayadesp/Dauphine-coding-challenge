@@ -55,67 +55,28 @@ Download and extract [the `spotify-project.zip` file](spotify/spotify-project.zi
 Your Project: Your portfolio Page
 ----------------------------------
 “Whether you are applying for a new job or starting a side project, most people will search for your name online.”
+
 Want to stand out from other candidates? Creating a personal website might just help you do so!
 
 A website can function similarly to a resume but you can add your personality, some photos & work samples. 
 
 Here are some example you could follow:
- [JESSDESIGNTAN](http://jessdesigntan.com/).
- [THAISA FERNANDES](https://www.thaisafernandes.com/).
- [Nik Papic](http://nik.org/).
- [Ian Enders](http://ianenders.com/).
+
+[JESSDESIGNTAN](http://jessdesigntan.com/).
+
+[THAISA FERNANDES](https://www.thaisafernandes.com/).
+
+[Nik Papic](http://nik.org/).
+
+[Ian Enders](http://ianenders.com/).
 
 
-- [ironhack-logo.png](ironhack/images/ironhack-logo.png?raw=true)
-- [hexagon.png](ironhack/images/hexagon.png?raw=true)
-- [student.png](ironhack/images/student.png?raw=true)
-
-### Text & Code Snippets ###
-- **Header Text**
-  * _Courses_
-  * _Locations_
-  * _Alumni_
-  * _Career_
-  * _Services_
-  * _Apply Now_
-- **Big Section Text**
-  * _Alumni_
-  * _Learn about the Ironhack experience directly from those who have already lived it and survived to tell the tale._
-- **Statistics Text**
-  * _+1500 Graduated Students_
-  * _4.9/5 Average Rating_
-  * _+600 Student Testimonials_
-- **Featured Alumni Text**
-  * _Featured Alumni_
-  * _"Society, Science, Tech and the world in general are changing so fast, that it’s nearly impossible for universities to react accordingly."_
-  * _Karolin Siebert - Web Development Bootcamp_
-- **Ratings Text**
-  * _Rated Top 3 in the World_
-  * _Our 4.9 score on Course Report and SwitchUp rank us in the top 3 coding and design schools in the world. Here are some of our student reviews:_
-  * _"Even after finishing the bootcamp, I know there is so much to learn. Ironhack gave me the tools to learn on my own for my web development career."_
-  * _Reviewed by Sarah Abogabir_
-  * _"I would go back and do it again in a heartbeat. Even the hard times, the late nights, every moment of it brought me where I am today. If you love software and need a place to start, you really don’t need to look any further."_
-  * _Reviewed by Crystal Jones_
-  * _"Ironhack has been an unforgettable experience for me and that I would most definitely recommend it to anyone really serious about learning how to code!"_
-  * _Reviewed by Tiago Ameller_
-- **Google Fonts `<link>` tag** for [the Roboto Mono font](https://fonts.google.com/specimen/Roboto+Mono) (titles)
-  and [the Roboto font](https://fonts.google.com/specimen/Roboto) (other text).
-  ```html
-  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:700|Roboto" rel="stylesheet">
-  ```
-- **Colors**
-  * Navigation links - <span style="display: inline-block; width: 15px; height: 15px; background-color: #c4f5ff"></span> `#c4f5ff`
-  * Big section paragraph - <span style="display: inline-block; width: 15px; height: 15px; background-color: #797986"></span> `#797986`
-  * Statistics text - <span style="display: inline-block; width: 15px; height: 15px; background-color: #2d354c"></span> `#2d354c`
-  * Featured Alumni background - <span style="display: inline-block; width: 15px; height: 15px; background-color: #2d354c"></span> `#2d354c`
-  * Featured Alumni small text - <span style="display: inline-block; width: 15px; height: 15px; background-color: #abacb8"></span> `#abacb8`
-  * Ratings background - <span style="display: inline-block; width: 15px; height: 15px; background-color: #fff3e4"></span> `#fff3e4`
-  * Ratings 4.9 score text - <span style="display: inline-block; width: 15px; height: 15px; background-color: #827f8a"></span> `#827f8a`
-  * Ratings review text - <span style="display: inline-block; width: 15px; height: 15px; background-color: #2d354c"></span> `#2d354c`
-  * Ratings review small text - <span style="display: inline-block; width: 15px; height: 15px; background-color: #666666"></span> `#666666`
-- **Code for the shadows**
-  * Big Section - `box-shadow: 0 32px 64px 0 rgba(30,35,52,.1);`
-  * Reviews - `box-shadow: 0 6px 12px 0 rgba(0,0,0,.2);`
+How to start? 
+* 1. Defining your grouping elements
+* 2. Adding all the content inside your HTML doc
+* 3. Finding the images you are going to use
+* 4. Arranging the different groups of content in their location
+* 5. From top to bottom, Focusing on each group and arrange the elements: color, size…
 
 
 Want to learn more?

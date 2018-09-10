@@ -60,7 +60,7 @@ Want to stand out from other candidates? Creating a personal website might just 
 
 A website can function similarly to a resume but you can add your personality, some photos & work samples. 
 
-**Here are some example you could follow:**
+**Here are some examples you could follow:**
 
 - [JESSDESIGNTAN](http://jessdesigntan.com/).
 - [THAISA FERNANDES](https://www.thaisafernandes.com/).

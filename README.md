@@ -67,14 +67,13 @@ A website can function similarly to a resume but you can add your personality, s
 - [Nik Papic](http://nik.org/).
 - [Ian Enders](http://ianenders.com/).
 
-[![](file:///Users/mayadespretz/Desktop/Screen%20Shot%202018-09-11%20at%2000.13.01.png)](http://nik.org/)
 
 **How to start?** 
-* _Defining your grouping elements
-* _Adding all the content inside your HTML doc
-* _Finding the images you are going to use
-* _Arranging the different groups of content in their location
-* _From top to bottom, Focusing on each group and arrange the elements: color, size…
+* Defining your grouping elements
+* Adding all the content inside your HTML doc
+* Finding the images you are going to use
+* Arranging the different groups of content in their location
+* From top to bottom, Focusing on each group and arrange the elements: color, size…
 
 
 Want to learn more?

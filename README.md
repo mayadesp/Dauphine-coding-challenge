@@ -52,13 +52,19 @@ Download and extract [the `spotify-project.zip` file](spotify/spotify-project.zi
   ```
 
 
-Your Project: Ironhack Alumni Page
+Your Project: Your portfolio Page
 ----------------------------------
-A simplified version of the [Ironhack Alumni page](https://www.ironhack.com/en/alumni).
+“Whether you are applying for a new job or starting a side project, most people will search for your name online.”
+Want to stand out from other candidates? Creating a personal website might just help you do so!
+
+A website can function similarly to a resume but you can add your personality, some photos & work samples. 
+
+Here are some example you could follow:
+ [THAISA FERNANDES](https://www.thaisafernandes.com/).
 
 Click on the image below to see a mockup of the project.
 
-[![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_31159ad947a7211f74e81dde5d48aefa.png)](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_c77fc7be3f64944897f2d0c219c2404d.png)
+[![](https://www.thaisafernandes.com/)](https://www.thaisafernandes.com/)
 
 ### Images ###
 - [ironhack-logo.png](ironhack/images/ironhack-logo.png?raw=true)

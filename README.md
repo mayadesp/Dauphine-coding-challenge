@@ -60,13 +60,12 @@ Want to stand out from other candidates? Creating a personal website might just 
 A website can function similarly to a resume but you can add your personality, some photos & work samples. 
 
 Here are some example you could follow:
+ [JESSDESIGNTAN](http://jessdesigntan.com/).
  [THAISA FERNANDES](https://www.thaisafernandes.com/).
+ [Nik Papic](http://nik.org/).
+ [Ian Enders](http://ianenders.com/).
 
-Click on the image below to see a mockup of the project.
 
-[![](https://www.thaisafernandes.com/)](https://www.thaisafernandes.com/)
-
-### Images ###
 - [ironhack-logo.png](ironhack/images/ironhack-logo.png?raw=true)
 - [hexagon.png](ironhack/images/hexagon.png?raw=true)
 - [student.png](ironhack/images/student.png?raw=true)

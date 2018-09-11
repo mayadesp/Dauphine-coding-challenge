@@ -69,11 +69,11 @@ A website can function similarly to a resume but you can add your personality, s
 
 
 **How to start?** 
-* Define your grouping elements
-* Add all the content inside your HTML doc
-* Find the images you are going to use
-* Arrange the different groups of content in their location
-* From top to bottom, Focuse on each group and arrange the elements: color, size…
+* Plan how you will group elements together
+* Find and save the images you are going to use
+* Add all the HTML for your content
+* Use CSS to arrange the groups of content
+* From top to bottom, use CSS to fix the details: color, size, space, etc.
 
 
 Want to learn more?
